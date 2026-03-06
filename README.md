@@ -1,4 +1,4 @@
-# Hi 👋 I'm Tharun Sai
+# Hi I'm Tharun Sai
 
 💻 Web Developer  
 🤖 Learning AI Development  
