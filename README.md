@@ -1,7 +1,7 @@
 # Hi I'm Tharun Sai
 
-💻 Web Developer  
-🤖 Learning AI Development  
+Web Developer  
+Learning AI Development  
 
 ## Skills
 - Python
