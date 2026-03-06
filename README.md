@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋 I'm Tharun Sai
 
-<!--
-**ambatitharunsai-tech/ambatitharunsai-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web Developer  
+🤖 Learning AI Development  
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- JavaScript
+- HTML & CSS
+- Flask
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- AI Curriculum Generator
+- Ticket Generator System
+- Web Chatbot using Groq API
+
+## Currently Learning
+- Machine Learning
+- Backend Development
+- Data Science
+- NLP & Transformers
